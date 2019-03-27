@@ -7,7 +7,7 @@
 > new 저장소 생성
 > 주소 카피
 > vs code에서 원하는 위치로 터미널 오픈
-> git clone https://github.com/bongseop2822/ncia_1004.git
+> git clone git 주소
 
 [[ npmjs 가입 ]]
 
